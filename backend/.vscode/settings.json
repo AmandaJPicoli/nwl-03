@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "NLW 03",
+            "database": "${workspaceFolder:backend}/src/database/database.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "git.ignoreLimitWarning": true
+}
